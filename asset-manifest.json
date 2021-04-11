@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Bohdan2909/social-network.git/static/css/main.345d78ce.chunk.css",
+    "main.js": "/Bohdan2909/social-network.git/static/js/main.155af6ee.chunk.js",
+    "main.js.map": "/Bohdan2909/social-network.git/static/js/main.155af6ee.chunk.js.map",
+    "runtime-main.js": "/Bohdan2909/social-network.git/static/js/runtime-main.5640e96b.js",
+    "runtime-main.js.map": "/Bohdan2909/social-network.git/static/js/runtime-main.5640e96b.js.map",
+    "static/js/2.8022c340.chunk.js": "/Bohdan2909/social-network.git/static/js/2.8022c340.chunk.js",
+    "static/js/2.8022c340.chunk.js.map": "/Bohdan2909/social-network.git/static/js/2.8022c340.chunk.js.map",
+    "static/css/3.5c3440db.chunk.css": "/Bohdan2909/social-network.git/static/css/3.5c3440db.chunk.css",
+    "static/js/3.b6b6a036.chunk.js": "/Bohdan2909/social-network.git/static/js/3.b6b6a036.chunk.js",
+    "static/js/3.b6b6a036.chunk.js.map": "/Bohdan2909/social-network.git/static/js/3.b6b6a036.chunk.js.map",
+    "static/css/4.9a3ae793.chunk.css": "/Bohdan2909/social-network.git/static/css/4.9a3ae793.chunk.css",
+    "static/js/4.f7db815b.chunk.js": "/Bohdan2909/social-network.git/static/js/4.f7db815b.chunk.js",
+    "static/js/4.f7db815b.chunk.js.map": "/Bohdan2909/social-network.git/static/js/4.f7db815b.chunk.js.map",
+    "static/js/5.c6b169eb.chunk.js": "/Bohdan2909/social-network.git/static/js/5.c6b169eb.chunk.js",
+    "static/js/5.c6b169eb.chunk.js.map": "/Bohdan2909/social-network.git/static/js/5.c6b169eb.chunk.js.map",
+    "index.html": "/Bohdan2909/social-network.git/index.html",
+    "static/css/3.5c3440db.chunk.css.map": "/Bohdan2909/social-network.git/static/css/3.5c3440db.chunk.css.map",
+    "static/css/4.9a3ae793.chunk.css.map": "/Bohdan2909/social-network.git/static/css/4.9a3ae793.chunk.css.map",
+    "static/css/main.345d78ce.chunk.css.map": "/Bohdan2909/social-network.git/static/css/main.345d78ce.chunk.css.map",
+    "static/js/2.8022c340.chunk.js.LICENSE.txt": "/Bohdan2909/social-network.git/static/js/2.8022c340.chunk.js.LICENSE.txt",
+    "static/media/preloader.5788b05c.svg": "/Bohdan2909/social-network.git/static/media/preloader.5788b05c.svg",
+    "static/media/user.96e310a6.png": "/Bohdan2909/social-network.git/static/media/user.96e310a6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5640e96b.js",
+    "static/js/2.8022c340.chunk.js",
+    "static/css/main.345d78ce.chunk.css",
+    "static/js/main.155af6ee.chunk.js"
+  ]
+}
